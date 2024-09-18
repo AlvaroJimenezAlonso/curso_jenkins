@@ -4,7 +4,7 @@ pipeline {
     environment 
     {
         anyo_nacimiento = "1999"
-        ruta_fichero = "C:/Users/ajimenez/Documents"
+        ruta_fichero = "C:/Users/ajimenez/Documents/"
         nombre_fichero = "edad_calculo.txt"
     }
 
